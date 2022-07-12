@@ -1,0 +1,375 @@
+# Copyright: 2015 Integrated ICT Pvt. Ltd.
+# Kathmandu, Nepal
+# http://www.integratedict.com.np
+
+# Kantipur to Unicode Map Table
+
+# Map of Punctuation characters (Special Symbols SPS) 
+#Kantipur #Unicode
+,	‚
+-	(
+.	।
+<	?
+=	.
+M	ः 
+_	) 
+…	‘
+†	!
+–	–
+—	—
+˜	ऽ
+›	ऽ
+¬	॰॰॰
+Ò	॰॰॰
+±	+
+Æ	”
+Ú	’ 
+æ	“
+÷	/
+\n	\n	
+
+# Map of numbers(NUM)
+#Kantipur	#Unicode	 
+)	०
+!	१
+@	२
+SP#	३
+$	४
+%	५
+^	६
+&	७
+*	८
+(	९
+
+#Map of dependent left vowels(LV)
+#Kantipur	#Unicode 
+l	ि	
+
+#Map of dependent right vowels(RV)
+#Kantipur	#Unicode	
+f	ा	
+F	ा	
+L	ी	
+
+#Map of dependent top vowels(TV)
+#Kantipur	#Unicode 
+]	े	
+}	ै	 
+
+#Map of dependent bottom vowels(BV)
+#Kantipur	#Unicode 
+'	ु	
+"	ू	
+[	ृ		
+
+#Map of dependent bindu(BDU)
+#Kantipur	#Unicode 
+‘	ॅ 
+“	ँ	
++	ं
+
+#Map of Special characters that needs conversion(SPC)
+#Kantipur	#Unicode
+C	ऋ
+ç	ॐ
+
+#Compound Single Character(CSC)
+#Kantipur	#Unicode
+2	द्द
+4	द्ध
+B	द्य
+Q	त्त
+‹	ङ्घ
+•	ड्ड
+¢	द्ध
+§	ट्ट
+°	ड्ढ
+¶	ठ्ठ
+Ë	ङ्ग
+¨	ङ्ग
+Ì	न्न
+Í	ङ्क
+ß	द्म
+å	द्व
+X	हृ
+
+#Uni-Hex Character
+◊	ङ्ख
+	ट्ठ
+Œ	त्त
+
+#Half Consonant with ZWJ (HFC)
+#Kantipur	#Unicode
+0	ण्
+:	स्
+A	ब्
+D	म्
+E	भ्
+G	न्
+H	ज्
+I	क्ष्
+J	व्
+K	प्
+N	ल्
+R	च्
+S	क्
+T	त्
+U	ग्
+V	ख्
+W	ध्
+Y	थ्
+Z	श्
+A	ब्
+i	ष्
+~	ञ्
+‰	झ्
+Œ	त्
+¡	ज्ञ्
+£	घ्
+¤	झ्
+Œ	त्र्
+º	फ्
+Î	फ्
+Ï	फ्
+Ø	य्
+{	र्
+¥	र्‍
+
+#Uni-Hex Character
+Σ	झ्
+√	झ्
+≈	ह्
+¡	ज्ञ्
+˘	श्र्
+
+#Whole Consonant (WC)
+#Kantipur	#Unicode
+1	ज्ञ
+3	घ
+5	छ
+6	ट
+7	ठ
+8	ड
+9	ढ
+;	स
+`	ञ
+b	द
+c	अ
+d	म
+e	भ
+f	ा
+F	ा
+g	न
+h	ज
+j	व
+k	प
+n	ल
+o	य
+r	च
+s	क
+t	त
+u	ग
+v	ख
+w	ध
+x	ह
+y	थ
+z	श
+´	झ
+È	ष
+Ô	क्ष
+¨	ङ
+ª	ङ
+©	र
+™	र
+®	र
+µ	र
+Â	र
+/	र
+\\	्
+
+#Uni-Hex Character
+˚	फ
+a	ब
+
+#Whole Vowel (WV)
+#Kantipur	#Unicode
+O	इ
+p	उ
+P	ए
+
+#Uni-Hex Character
+c	अ
+
+#Single Joint Ra (SJR)
+„	ध्र
+q	त्र
+>	श्र
+
+#Uni-Hex Character
+ı	द्र
+
+#Single Ru
+?	रु
+¿	रू
+
+# Two letters group
+#Map of dependent right vowels(RV)
+#Kantipur	#Unicode	
+f]	ो	
+F}	ौ
+
+#WV_RV
+#Kantipur	#Unicode
+cf	आ
+pm	ऊ
+
+#WV_TV
+#Kantipur	#Unicode
+P]	ऐ
+
+#WV_TV_RA
+O{	ई
+
+#HFC_RV
+#Kantipur	#Unicode
+0F	ण
+
+#WC_HLN(with ZWNJ)
+#Kantipur	#Unicode
+s\\	क्‌
+v\\	ख्‌
+u\\	ग्‌
+3\\	घ्‌
+r\\	च्‌
+h\\	ज्‌
+`\\	ञ्‌
+t\\	त्‌
+y\\	थ्‌
+w\\	ध्‌
+g\\	न्‌
+k\\	प्‌
+a\\	ब्‌
+e\\	भ्‌
+d\\	म्‌
+o\\	य्‌
+/\\	र्‌
+n\\	ल्‌
+j\\	व्‌
+z\\	श्‌
+È\\	ष्‌
+;\\	स्‌
+x\\	ह्‌
+ª\\	ङ्
+5\\	छ्
+6\\	ट्
+7\\	ठ्
+8\\	ड्
+9\\	ढ्
+b\\	द्
+
+#(Two ra characters)WC_HLN
+#Kantipur	#Unicode
+v|	ख्र
+u|	ग्र
+3|	घ्र
+r|	च्र
+h|	ज्र
+y|	थ्र
+g|	न्र
+k|	प्र
+a|	ब्र
+e|	भ्र
+d|	म्र
+o|	य्र
+n|	ल्र
+j|	व्र	
+È|	ष्र	
+;|	स्र	
+x|	ह्र
+ª«	ङ्र
+5«	छ्र
+6«	ट्र
+7«	ठ्र
+8«	ड्र
+9«	ढ्र
+qm	क्र
+Qm	क्त
+j|m	क्र
+
+# Three letters group
+
+#WV_RV_TV
+#Kantipur	#Unicode
+cf]	ओ
+cf}	औ
+cF]	ओ
+cF}	औ
+
+#right special symbol with character ID =RSPS (for fa and jha)
+#WC_BV_RSPS
+#Kantipur	#Unicode
+k'm	फु
+k"m	फू
+k[m	फृ
+e'm	झु
+e"m	झू
+e[m	झृ
+q'm	क्रु
+q"m	क्रू
+
+
+#WC_TV_RSPS
+#Kantipur	#Unicode
+k]m	फे
+k}m	फै
+e]m	झे
+e}m	झै
+q]m	क्रे
+q}m	क्रै
+
+#WC_BDU_RSPS
+#Kantipur	#Unicode
+k“m	फँ
+k+m	फं
+e“m	झँ
+e+m	झं
+q“m	क्रँ
+q+m	क्रं
+
+#HFC_RV_HLN
+#Kantipur	#Unicode
+0F\\	ण्‌
+0f\\	ण्‌
+
+#WC_HLN_RSPS
+#Kantipur	#Unicode
+e\\m	झ्‌
+k\\m	फ्‌
+e|m	झ्र
+k|m	फ्र
+
+#Missed and re-store from previous map.
+	फ्
+∂	र
+∆	झ्
+∕	र
+∞	∞
+0f	ण
+≠	≠
+≤	≤
+≥	≥
+|	्र
+S|	क्र्
+em	झ
+«	्र
+f}	ौ
+F]	ो
+ø	य्
+if	ष
+If	क्ष
+œ	त्र्
+km	फ
+π	!
+
+#WC_HLN_WC_TV
+/\\/{	र्‌र्र

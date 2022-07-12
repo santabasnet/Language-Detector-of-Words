@@ -1,0 +1,148 @@
+﻿2016-06-01 15:17:53 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : गरिनेभएकोले
+2016-06-01 15:19:23 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : गरिनेभएकोले
+2016-06-01 16:54:02 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : गरिनेभएकोले
+2016-06-01 16:56:12 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : गरिनेभएकोले
+2016-06-01 17:07:08 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : गहन
+2016-06-01 17:11:05 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : गहन
+2016-06-01 17:13:27 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : गहन
+2016-06-01 17:19:44 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : खान
+2016-06-01 17:20:54 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : खान
+2016-06-01 17:22:36 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : गरेन
+2016-06-01 17:24:36 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : गरा
+2016-06-01 17:26:03 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : गहन
+2016-06-03 19:21:29 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : गरिनेभएकोले
+2016-06-20 13:16:10 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : गरिनेभएकोले
+2016-06-20 13:17:22 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : गरिनेभएकोले
+2016-06-20 13:18:22 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : गरिनेभएकोले
+2016-06-20 13:18:35 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : गरिनेभएकोलेa
+2016-06-20 13:18:42 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : गरिनेभएकोलेa
+2016-06-20 13:20:51 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : डोकेहरुका
+2016-06-20 13:21:12 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : डोकेहरुका
+2016-06-20 13:21:29 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : डोकेहरुका
+2016-06-20 13:22:55 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : सवारीसाधन
+2016-06-20 13:23:02 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : सवारीसाधन
+2016-06-20 13:23:15 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : सवारीसाधन
+2016-06-20 13:23:46 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : डोकेहरुका
+2016-06-20 13:23:57 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is not present : डोकेहरुका
+2016-06-20 13:24:11 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is not present : डोकेहरुका
+2016-06-20 13:24:22 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : सवारीसाधन
+2016-06-20 13:24:31 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : सवारीसाधन
+2016-06-20 13:35:50 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : सवारीसाधन
+2016-06-20 13:36:54 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : सवारीसाधन
+2016-06-26 18:12:13 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : मष्लभकजज्ञण्
+2016-06-26 18:12:13 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Adding new word to the dictionary problem !	Detail : org.apache.lucene.util.SetOnce$AlreadySetException: The object cannot be set twice!
+2016-06-26 18:12:13 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Adding new word to the dictionary problem !	Detail : org.apache.lucene.util.SetOnce$AlreadySetException: The object cannot be set twice!
+2016-06-26 18:12:13 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Adding new word to the dictionary problem !	Detail : org.apache.lucene.util.SetOnce$AlreadySetException: The object cannot be set twice!
+2016-06-26 18:12:13 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Adding new word to the dictionary problem !	Detail : org.apache.lucene.util.SetOnce$AlreadySetException: The object cannot be set twice!
+2016-06-26 18:12:13 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Adding new word to the dictionary problem !	Detail : org.apache.lucene.util.SetOnce$AlreadySetException: The object cannot be set twice!
+2016-06-26 18:13:13 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजज्ञण्
+2016-06-26 18:13:13 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : मष्लभकजद्दज्ञ
+2016-06-26 18:13:13 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Adding new word to the dictionary problem !	Detail : org.apache.lucene.util.SetOnce$AlreadySetException: The object cannot be set twice!
+2016-06-26 18:13:13 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Adding new word to the dictionary problem !	Detail : org.apache.lucene.util.SetOnce$AlreadySetException: The object cannot be set twice!
+2016-06-26 18:13:13 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Adding new word to the dictionary problem !	Detail : org.apache.lucene.util.SetOnce$AlreadySetException: The object cannot be set twice!
+2016-06-26 18:13:13 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Adding new word to the dictionary problem !	Detail : org.apache.lucene.util.SetOnce$AlreadySetException: The object cannot be set twice!
+2016-06-26 18:14:35 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजज्ञण्
+2016-06-26 18:14:35 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजद्दज्ञ
+2016-06-26 18:14:35 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : मष्लभकजघद्द
+2016-06-26 18:14:35 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Adding new word to the dictionary problem !	Detail : org.apache.lucene.util.SetOnce$AlreadySetException: The object cannot be set twice!
+2016-06-26 18:14:35 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Adding new word to the dictionary problem !	Detail : org.apache.lucene.util.SetOnce$AlreadySetException: The object cannot be set twice!
+2016-06-26 18:14:35 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Adding new word to the dictionary problem !	Detail : org.apache.lucene.util.SetOnce$AlreadySetException: The object cannot be set twice!
+2016-06-26 18:14:48 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजज्ञण्
+2016-06-26 18:14:48 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजद्दज्ञ
+2016-06-26 18:14:48 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजघद्द
+2016-06-26 18:14:48 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : मष्लभकजद्धघ
+2016-06-26 18:14:48 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Adding new word to the dictionary problem !	Detail : org.apache.lucene.util.SetOnce$AlreadySetException: The object cannot be set twice!
+2016-06-26 18:14:48 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Adding new word to the dictionary problem !	Detail : org.apache.lucene.util.SetOnce$AlreadySetException: The object cannot be set twice!
+2016-06-26 18:14:55 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजज्ञण्
+2016-06-26 18:14:55 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजद्दज्ञ
+2016-06-26 18:14:55 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजघद्द
+2016-06-26 18:14:55 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजद्धघ
+2016-06-26 18:14:55 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : मष्लभकजछद्ध
+2016-06-26 18:14:55 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Adding new word to the dictionary problem !	Detail : org.apache.lucene.util.SetOnce$AlreadySetException: The object cannot be set twice!
+2016-06-26 18:15:04 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजज्ञण्
+2016-06-26 18:15:04 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजद्दज्ञ
+2016-06-26 18:15:04 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजघद्द
+2016-06-26 18:15:04 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजद्धघ
+2016-06-26 18:15:04 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजछद्ध
+2016-06-26 18:15:04 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : मष्लभकजटछ
+2016-06-26 18:15:10 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजज्ञण्
+2016-06-26 18:15:10 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजद्दज्ञ
+2016-06-26 18:15:10 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजघद्द
+2016-06-26 18:15:10 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजद्धघ
+2016-06-26 18:15:10 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजछद्ध
+2016-06-26 18:15:10 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजटछ
+2016-06-26 18:15:21 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजज्ञण्
+2016-06-26 18:15:21 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजद्दज्ञ
+2016-06-26 18:15:21 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजघद्द
+2016-06-26 18:15:21 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजद्धघ
+2016-06-26 18:15:21 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजछद्ध
+2016-06-26 18:15:21 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : मष्लभकजटछ
+2016-06-26 18:39:11 ERROR IICTLogger:51 - com.iict.spelldictionary.DataDictionary: Index files and/or data does not exists. Please check your resources location.
+2016-06-26 18:39:19 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Dictionary model indexing completed successfully.
+2016-06-26 18:39:32 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : मष्लभकजज्ञण्
+2016-06-26 18:39:32 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : मष्लभकजद्दज्ञ
+2016-06-26 18:39:32 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : मष्लभकजघद्द
+2016-06-26 18:39:32 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : मष्लभकजद्धघ
+2016-06-26 18:39:32 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : मष्लभकजछद्ध
+2016-06-26 18:39:32 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : मष्लभकजटछ
+2016-06-26 18:42:44 ERROR IICTLogger:51 - com.iict.spelldictionary.DataDictionary: Index files and/or data does not exists. Please check your resources location.
+2016-06-26 18:42:51 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Dictionary model indexing completed successfully.
+2016-06-26 18:43:30 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : गरिनेभएकोलेa
+2016-06-26 18:45:56 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : गरिनेभएकोलेa
+2016-06-26 18:45:56 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : गरिनेभएकोलेa
+2016-07-24 11:06:49 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : अर्थ्याउँछन्‌ण्
+2017-01-27 02:57:59 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : सवारीसाधन
+2017-02-26 02:01:59 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : सवारीसाधन
+2017-02-26 02:12:06 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : सवारीसाधन
+2017-02-26 02:18:06 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : सवारीसाधन
+2017-02-26 03:37:17 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : सवारीसाधन
+2017-02-28 12:25:13 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : सवारीसाधन
+2017-02-28 12:36:45 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : सवारीसाधन
+2017-03-15 17:13:12 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : आठण्
+2017-03-15 17:14:45 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : आठण्
+2017-03-15 17:17:08 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : आठण्
+2017-03-16 16:06:59 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Spelling suggestions problem !	Detail : java.lang.NullPointerException
+2017-03-16 16:08:16 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Spelling suggestions problem !	Detail : java.lang.NullPointerException
+2017-03-16 16:08:43 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Spelling suggestions problem !	Detail : java.lang.NullPointerException
+2017-03-16 16:12:40 DEBUG IICTLogger:47 - com.iict.spelldictionary.DataDictionary: Spelling suggestions problem !	Detail : java.lang.NullPointerException
+2017-03-16 23:58:46 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : एकण्
+2017-03-17 00:02:03 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : एकण्
+2017-03-17 00:06:47 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : एकण्
+2017-03-17 00:07:35 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : एक
+2017-03-17 00:09:36 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : म
+2017-03-17 00:11:06 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : सवारीसाधन
+2017-03-17 00:11:42 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : म
+2017-03-17 00:11:53 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : त
+2017-03-17 00:12:12 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is already present : र
+2017-03-17 00:12:25 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : क
+2017-03-17 13:01:51 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : ले
+2017-03-30 01:04:57 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Dictionary model indexing completed successfully.
+2017-03-30 04:37:19 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is not present : सवारीसाधन
+2017-03-30 04:42:39 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Word is not present : सवारीसाधन
+2017-03-30 04:49:49 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : अँगालिएली
+2017-03-30 12:45:13 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : अँगालिएली
+2017-03-30 12:45:19 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : अँगालिएली
+2017-03-30 12:46:19 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Push a word to delete : अँगालिएली
+2017-03-30 13:30:21 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Dictionary model indexing completed successfully.
+2017-03-30 14:38:07 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : अँगालिएली
+2017-03-30 14:39:56 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Dictionary model indexing completed successfully.
+2017-03-30 14:57:54 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Dictionary model indexing completed successfully.
+2017-04-02 13:28:07 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Dictionary model indexing completed successfully.
+2017-04-02 13:29:01 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : खाने
+2017-04-02 13:29:59 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Dictionary model indexing completed successfully.
+2017-04-02 13:30:56 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : खाने
+2017-04-02 13:31:29 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Dictionary model indexing completed successfully.
+2017-04-02 13:31:51 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: New word added : खाने
+2017-07-19 03:40:28 ERROR IICTLogger:51 - com.iict.spelldictionary.DataDictionary: Index files and/or data does not exists. Please check your resources location.
+2017-07-19 03:50:50 ERROR IICTLogger:51 - com.iict.spelldictionary.DataDictionary: Index files and/or data does not exists. Please check your resources location.
+2017-07-20 15:46:49 ERROR IICTLogger:51 - com.iict.spelldictionary.DataDictionary: Index files and/or data does not exists. Please check your resources location.
+2017-07-20 15:46:49 ERROR IICTLogger:51 - com.iict.spelldictionary.DataDictionary: Index files and/or data does not exists. Please check your resources location.
+2017-07-20 15:47:07 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Dictionary model indexing completed successfully.
+2017-07-25 17:12:16 ERROR IICTLogger:51 - com.iict.spelldictionary.DataDictionary: Index files and/or data does not exists. Please check your resources location.
+2017-07-25 17:12:16 ERROR IICTLogger:51 - com.iict.spelldictionary.DataDictionary: Index files and/or data does not exists. Please check your resources location.
+2017-07-25 17:12:39 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Dictionary model indexing completed successfully.
+2017-07-25 17:15:44 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Dictionary model indexing completed successfully.
+2017-07-31 16:21:45 ERROR IICTLogger:51 - com.iict.spelldictionary.DataDictionary: Index files and/or data does not exists. Please check your resources location.
+2017-07-31 16:21:45 ERROR IICTLogger:51 - com.iict.spelldictionary.DataDictionary: Index files and/or data does not exists. Please check your resources location.
+2017-07-31 16:22:04 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Dictionary model indexing completed successfully.
+2017-08-18 17:13:44 INFO  IICTLogger:39 - com.iict.spelldictionary.DataDictionary: Dictionary model indexing completed successfully.

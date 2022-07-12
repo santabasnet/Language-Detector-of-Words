@@ -1,0 +1,376 @@
+# Copyright: 2015 Integrated ICT Pvt. Ltd.
+# Kathmandu, Nepal
+# http://www.integratedict.com.np
+
+# Unicode (All Characters) Single Character Mapping
+
+# Map of Punctuation characters (Special Symbols SPS)
+# Unicode	# Kantipur
+‚	,
+(	-
+।	.
+?	<
+.	=
+ः	M
+)	_	
+‘	… 
+!	†
+–	–
+—	— 
+ऽ	˜ 
+ऽ	›
+॰॰॰ ¬
+॰॰॰ Ò
++	±
+”	Æ
+’	Ú	
+“	æ
+/	÷
+\n	\n
+
+॰
+ॱ
+’
+„
+†
+‡
+•
+…
+‰
+‹
+›
+₨
+€
+™
+−
+∙
+◌
+।
+॥
+
+# Map of numbers(NUM)
+#Unicode	#Kantipur		
+०	)
+१	!
+२	@
+३	#
+४	$
+५	%
+६	^
+७	&
+८	*
+९	(
+
+#Map of dependent vowels(DV)
+#Unicode	#Kantipur
+ि	l 
+ा	f		
+ी	L
+े	]	
+ै	}
+ु	'	
+ू	"	
+ृ	[ 
+ो	f]
+ौ	f}
+
+#Map of dependent bindu/ joining Symbol(BDU/JS)
+#Unicode	#Kantipur	
+ॅ	‘	
+ँ	“	
+ं	+
+
+#Map of Special characters that needs conversion(SPC)
+#Unicode	#Kantipur
+ऋ	C
+ॐ	ç
+
+#Whole Consonant (WC)
+#Unicode	#Kantipur
+क	s
+ख	v
+ग	u	
+घ	3
+ङ	¨
+ङ	ª
+च	r
+छ	5
+ज	h 
+झ	´
+ञ	` 
+ट	6
+ठ	7
+ड	8
+ढ	9
+ण	0f
+त	t
+थ	y
+द	b
+ध	w
+न	g
+प	k
+#फ	˚
+फ	km
+ब	a
+भ	e
+म	d
+य	o
+र	©
+र	™
+र	®
+र	µ
+र	Â
+र	/		
+ल	n
+व	j
+स	;
+ष	È
+श	z
+ह	x
+	
+#Whole Vowel (WV)
+#Unicode	#Kantipur
+अ	c
+इ	O
+उ	p
+ए	P
+आ	cf
+ऊ	pm
+ई	O{
+ऐ	P]
+ओ	cf]
+औ	cf}
+
+# Unicode two Character Mapping
+#whole Consonant and Halanta(WC_HLN)
+#unicode	#Knatipur
+ण्	0
+स्	:
+ब्	A
+म्	D
+भ्	E
+न्	G
+ज्	H
+व्	J
+प्	K
+ल्	N
+च्	R
+क्	S
+त्	T
+ग्	U
+ख्	V
+ध्	W
+थ्	Y
+श्	Z
+ब्	A
+ष्	i
+ञ्	~
+झ्	‰
+त्	T
+घ्	£
+झ्	¤
+फ्	º
+फ्	Î
+फ्	Ï
+य्	Ø
+झ्‍	Σ
+झ्‍	√
+ह्‍	≈
+ङ्	ª\\
+छ्	5\\
+ट्	6\\
+ठ्	7\\
+ड्	8\\
+ढ्	9\\
+द्	b\\
+र्	{
+
+#whole consonant and dependent vowel(WC_DV)
+रु	? 
+रू	¿
+फु	k'm
+फू	k"m
+फृ	k[m
+झु	e'm
+झू	e"m
+झृ	e[m
+फे	k]m
+फै	k}m
+झे	e]m
+झै	e}m
+फँ	k“m
+फं	k+m
+झँ	e“m
+झं	e+m
+ऊँ	p“m
+
+# Unicode three Character Mapping
+#combine characters(WC_HLN_WC)
+#unicode	#Knatipur
+ज्ञ	1
+क्ष	Ô
+द्द	2
+द्ध	4
+द्य	B
+त्त	Q
+ङ्घ	‹
+ड्ड	•
+द्ध	¢
+ट्ट	§
+ड्ढ	°
+ठ्ठ	¶
+ङ्ग	Ë
+ङ्ग	¨
+#न्न	Ì
+न्न	Gg
+ङ्क	Í
+द्म	ß
+द्व	å
+हृ	X
+ङ्ख	◊
+ट्ठ	
+त्त	Q
+ह्न	≈g
+ह्	≈
+
+#Whole consonant, halanta with ZWJ (WC_HLN_ZWJ)
+#Unicode	#Kantipur
+ण्	0
+स्	:
+ब्	A
+म्	D
+भ्	E
+न्	G
+ज्	H
+व्	J
+प्	K
+ल्	N
+च्	R
+क्	S
+त्	T
+ग्	U
+ख्	V
+ध्	W
+थ्	Y
+श्	Z
+ब्	A
+ष्	i
+ञ्	~
+झ्	‰
+घ्	£
+झ्	¤
+फ्	º
+फ्	Î 
+फ्	Ï
+य्	Ø
+र्‍	¥
+
+#Whole consonant, halanta with ZWJ (WC_HLN_ZWNJ)
+#Unicode	#Kantipur
+क्‌	s\\ 
+ख्‌	v\\ 
+ग्‌	u\\ 
+घ्‌	3\\ 
+च्‌	r\\ 
+ज्‌	h\\ 
+ञ्‌	`\\ 
+त्‌	t\\ 
+थ्‌	y\\ 
+ध्‌	w\\ 
+न्‌	g\\ 
+प्‌	k\\ 
+ब्‌	a\\ 
+भ्‌	e\\ 
+म्‌	d\\ 
+य्‌	o\\ 
+र्‌	/\\ 
+ल्‌	n\\ 
+व्‌	j\\ 
+श्‌	z\\
+ष्‌	È\\ 
+स्‌	;\\ 
+ह्‌	x\\ 
+ण्‌	0f\\
+झ्‌	e\\m
+फ्‌	k\\m	
+
+#Whole consonant, halanta and ra(WC_HLN_Ra)
+#Unicode	#Kantipur
+ध्र	„
+त्र	q
+श्र	>
+द्र	ı
+ख्र	v| 
+ग्र	u| 
+घ्र	3| 
+च्र	r| 
+ज्र	h| 
+थ्र	y| 
+न्र	g| 
+प्र	k| 
+ब्र	a| 
+भ्र	e| 
+म्र	d| 
+य्र	o| 
+ल्र	n| 
+व्र	j|	
+ष्र	È|	
+स्र	;|	
+ह्र	x| 
+ङ्र	ª« 
+छ्र	5« 
+ट्र	6« 
+ठ्र	7« 
+ड्र	8« 
+ढ्र	9« 
+क्र	qm
+झ्र	e|m
+फ्र	k|m	
+
+#Unicode four characters mapping
+#WC_HLN_WC_HLN
+क्र्	S|
+श्र्‍	˘	
+ज्ञ्	¡
+क्ष्	I
+त्र्	œ
+
+#WC_HLN_RA_BV
+क्रु	q'm
+क्रू	q"m
+झ्रु	e|'m
+झ्रू	e|"m
+फ्रु	k|'m
+फ्रू	k|"m
+
+
+#WC_HLN_RA_TV
+क्रे	q]m
+क्रै	q}m
+झ्रे	e|]m
+झ्रै	e|}m
+फ्रे	k|]m
+फ्रै	k|}m
+
+#WC_HLN_RA_BINDU
+क्रँ	q“m
+क्रं	q+m
+झ्रँ	e|“m
+झ्रं	e|+m
+फ्रँ	k|“m
+फ्रं	k|+m
+
+
+#Unicode five characters mapping
+#WC_HLN_WC_HLN_ZWJ
+क्ष्	I
+ज्ञ्	¡
+
+#Special Ra Map
+र्१	|
+र्२	«
+
+#Special treatment for WC_DV_JS (with झ type character)
+फिँ	lk“m
+झिँ	le“m
+क्रिँ	lq“m
